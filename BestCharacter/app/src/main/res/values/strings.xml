@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Jujutsu Character</string>
+
+    <string name="character_name">Nama Character</string>
+    <string name="description">Deskripsi</string>
+    <string name="profile">Lihat profile</string>
+    <string name="share">Share bro </string>
+    <string name="fullDescription">full deskripsi</string>
+    <string-array name="data_name">
+        <item>Geto</item>
+        <item>Gojo</item>
+        <item>Itadori</item>
+        <item>Mahito</item>
+        <item>Maki</item>
+        <item>Megumi</item>
+        <item>Nanami</item>
+        <item>Sukuna</item>
+        <item>Todo</item>
+        <item>Yuta</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/geto</item>
+        <item>@drawable/gojo</item>
+        <item>@drawable/itadori</item>
+        <item>@drawable/mahito</item>
+        <item>@drawable/maki</item>
+        <item>@drawable/megumi</item>
+        <item>@drawable/nanami</item>
+        <item>@drawable/sukuna</item>
+        <item>@drawable/todo</item>
+        <item>@drawable/yuta</item>
+    </integer-array>
+    <string-array name="data_fullDeskripsi">
+        <item>Suguru Geto merupakan karakter di anime Jujutsu Kaisen, seorang pernah belajar Jujutsu dari Masamichi Yaga bersama dengan Shoko Ieiri dan juga Satoru Gojo.
+Geto memiliki track record yang mengerikan dimana pada masa lalu ia pernah melakukan pembantaian terhadap warga sipil yang dilatarbelakangi oleh kebencian mereka terhadap non Jujutsu Sorcerer.
+Insiden ini membuat Geto dikeluarkan dari lembaga pendidikan tempatnya belajar dan ia juga dikenal sebagai pengguna kutukan terburuk.</item>
+        <item>Gojo Satoru adalah salah satu karakter penting dari serial Jujutsu Kaisen yang sangat populer karena penampilan dan gaya bertarungnya. Dia merupakan seorang penyihir terkuat dalam serial ini.
+Satoru ditampilkan sebagai sosok berbadan tinggi dan sangat menarik perhatian karena selalu menutupi matanya dengan bandana hitam saat beraktivitas sehari-hari.
+Uniknya, meski matanya tertutup, Satoru Gojo tetap dapat melihat layaknya orang normal. Bandana tersebut membuat rambutnya terikat ke atas, meskipun terkadang ia membiarkan rambutnya tergerai ke bawah ketika menggunakan pakaian yang lebih kasual.
+Nah, ternyata penutup mata tersebut berfungsi untuk melumpuhkan atau menekan sebagian besar kekuatan dan intensitas kekuatannya.</item>
+        <item>
+Yuji Itadori merupakan protagonis utama yang ada di dalam manga dan anime yang berjudul Jujutsu Kaisen (2020).
+Ia adalah anak dari Jin Itadori dan cucu dari Wasuke Itadori yang hidup normal sampai bertemu Megumi dan memakan salah satu jari Sukuna.
+Ia digambarkan sebagai seorang pria muda dengan tinggi rata-rata dan tampaknya memiliki tubuh yang ramping.  Ia pernah mengenakan pakaian longgar, tetapi sebenarnya memiliki fisik yang ramping dan berotot.</item>
+        <item>Mahito adalah salah satu penjahat yang paling sering membuat gregetan. Reputasinya yang kerap menyengsarakan para manusia dan selalu lolos dari maut inilah yang menjadikan kutukan satu ini sebagai antagonis yang paling memorable</item>
+        <item>Maki Zenin adalah salah satu karakter paling menarik dan unik di anime Jujutsu Kaisen.
+Keunikan (dan kelemahan) Maki terletak pada dirinya yang hampir tidak memiliki cursed energy sama sekali. Tetapi, dia memiliki kekuatan fisik terbesar di antara muridnya—dan kemudian mungkin bisa dibilang di antara semua sorcerer yang ada di Jujutsu Kaisen.</item>
+        <item>Megumi Fushiguro adalah karakter di anime Jujutsu Kaisen yang dikenal sebagai penyihir Jujutsu di SMA Jujutsu Tokyo.
+Megumi adalah seorang pria yang lahir dari keluarga Zenin dengan ayah Toji Fushiguro, dan memiliki seorang saudara tiri dengan nama Tsumiki Fushiguro.
+Setelah kekalahan sang ayah melawan Gojo, sang ayah meminta Gojo untuk merawat Megumi. Gojo memenuhi permintaan itu, termasuk mengajari dan menyekolahkan Megumi di Jujutsu Tokyo.</item>
+        <item>Kento Nanami Dakimakura adalah karakter cerminan Gojo Satoru tapi memiliki kepribadian yang bertolak belakang. Karakter Dakimakura Kento Nanami ini lahir pada tanggal 3 Juli 1990 yang membuat ia memiliki usia yang sama dengan Gojo Satoru yaitu 28 tahun.
+Sayangnya Kento memiliki tinggi badan yang sedikit lebih pendek dari Gojo yaitu 184 cm. Kento memang terlihat lebih tenang dan lembut seperti horoscope-nya yaitu Cancer.</item>
+        <item>Ryomen Sukuna merupakan sosok roh terkutuk yang dikenal sebagai Raja Kutukan dalam anime yang berjudul Jujutsu Kaisen (2020). Selain itu, ia berperan sebagai salah satu antagonis utama.
+Ia digambarkan dengan menjelma dalam tubuh Yuji Itadori karena Yuji Itadori memakan salah satu jari terkutuknya sehingga ia bisa menggunakan tubuhnya.
+Awalnya, ia adalah iblis dengan empat tangan dan dua wajah. Namun saat ini, ia tampil dengan rambut berduri dan dengan tanda unik di dahi, hidung, pipi, dan dada.</item>
+        <item>Aoi Todo adalah seorang pemuda jangkung yang tingginya hampir sama dengan Satoru Gojo [3] . Dia memiliki tubuh yang sangat kekar, berotot, dan kulit yang relatif cokelat. Dia memiliki mata hitam kecil dan rambut hitam sebahu yang hampir selalu diikat menjadi sanggul. Salah satu cirinya yang paling menonjol adalah bekas luka besar di sisi kiri wajah Todo yang ia dapatkan dari latihan keras dengan Yuki.
+Saat Todo memakai seragam tinggi jujutsunya, dia biasanya melepas jaketnya dan merobek kaos dalamnya sebelum atau selama pertarungan. Dia biasanya mengenakan celana dan sandal seni bela diri. Celana pilihan Todo sangat longgar dan berhenti di atas mata kaki dengan ikat pinggang berwarna biru cerah yang melingkari pinggang. Dia mengenakan pakaian jenis tenis saat bermain ping-pong dengan Mei Mei, mengenakan kemeja berkerah dan celana pendek daripada pakaian normalnya.</item>
+        <item>uta Okkotsu (乙おっ骨こつ憂ゆう太た Okkotsu Yuta ? )adalah karakter pendukung utama dalam seri Jujutsu Kaisen dan protagonis utama dari seri prekuelnya, Jujutsu Kaisen 0: Jujutsu High . Dia awalnya adalahmanusia terkutukkelas khusus yang dihantui oleh teman masa kecilnya,Rika Orimoto. Satoru Gojomembimbing Yuta dan mendaftarkannya diSMA Jujutsu Tokyo.
+Yuta saat ini adalah siswa tahun kedua di SMA Jujutsu di mana dia bekerja sebagai ahli sihir jujutsu . Dia berlatih di luar negeri di Afrika bersama Miguel sampai setelah Insiden Shibuya ketika dia kembali ke Tokyo.</item>
+    </string-array>
+</resources>
